@@ -1,5 +1,5 @@
 {
-  "name": "node_3_volha_melayok",
+  "name": "node_5_volha_melayok",
   "version": "1.0.0",
   "description": "Homework",
   "main": "index.js",
@@ -10,8 +10,10 @@
     "start-watch": "nodemon index.js"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
