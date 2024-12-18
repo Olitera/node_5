@@ -1,0 +1,2415 @@
+[
+  {
+    "id": 326,
+    "title": "The Shawshank Redemption",
+    "rating": "9.109",
+    "year": 1994,
+    "budget": 25000000,
+    "gross": 28418687,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/orig",
+    "position": 1
+  },
+  {
+    "id": 435,
+    "title": "The Green Mile",
+    "rating": "9.076",
+    "year": 1999,
+    "budget": 60000000,
+    "gross": 286801374,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/4057c4b8-8208-4a04-b169-26b0661453e3/orig",
+    "position": 2
+  },
+  {
+    "id": 448,
+    "title": "Forrest Gump",
+    "rating": "8.921",
+    "year": 1994,
+    "budget": 55000000,
+    "gross": 677387716,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/3560b757-9b95-45ec-af8c-623972370f9d/orig",
+    "position": 3
+  },
+  {
+    "id": 329,
+    "title": "Schindler's List",
+    "rating": "8.847",
+    "year": 1993,
+    "budget": 22000000,
+    "gross": 321306305,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/1e1ac6d9-c658-4f5f-937e-d080bca0d893/orig",
+    "position": 4
+  },
+  {
+    "id": 535341,
+    "title": "Intouchables",
+    "rating": "8.84",
+    "year": 2011,
+    "budget": 9500000,
+    "gross": 426588510,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/bf93b465-1189-4155-9dd1-cb9fb5cb1bb5/orig",
+    "position": 5
+  },
+  {
+    "id": 42664,
+    "title": "Иван Васильевич меняет профессию",
+    "rating": "8.789",
+    "year": 1973,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/a7ef44b8-1983-4992-a889-da6f87a3f559/orig",
+    "position": 6
+  },
+  {
+    "id": 679486,
+    "title": "Coco",
+    "rating": "8.724",
+    "year": 2017,
+    "budget": 175000000,
+    "gross": 814641172,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/6e11a16e-c9e7-491f-9162-01098a7d8dd9/orig",
+    "position": 7
+  },
+  {
+    "id": 42782,
+    "title": "Операция «Ы» и другие приключения Шурика",
+    "rating": "8.711",
+    "year": 1965,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/ccd69a69-7405-4b41-89a8-60dd6dc2a3ee/orig",
+    "position": 8
+  },
+  {
+    "id": 325,
+    "title": "The Godfather",
+    "rating": "8.703",
+    "year": 1972,
+    "budget": 6000000,
+    "gross": 243862778,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/c11652e8-653b-47c1-8e72-1552399a775b/orig",
+    "position": 9
+  },
+  {
+    "id": 389,
+    "title": "Léon",
+    "rating": "8.674",
+    "year": 1994,
+    "budget": 115000000,
+    "gross": 19881466,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/8662d92a-5881-4600-a7ae-549e6fd53b03/orig",
+    "position": 10
+  },
+  {
+    "id": 361,
+    "title": "Fight Club",
+    "rating": "8.672",
+    "year": 1999,
+    "budget": 63000000,
+    "gross": 100853753,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/85b585ea-410f-4d1c-aaa5-8d242756c2a4/orig",
+    "position": 11
+  },
+  {
+    "id": 3498,
+    "title": "The Lord of the Rings: The Return of the King",
+    "rating": "8.666",
+    "year": 2003,
+    "budget": 94000000,
+    "gross": 1156194180,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/e410c71f-baa1-4fe5-bb29-aedb4662f49b/orig",
+    "position": 12
+  },
+  {
+    "id": 447301,
+    "title": "Inception",
+    "rating": "8.666",
+    "year": 2010,
+    "budget": 160000000,
+    "gross": 828322032,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/8ab9a119-dd74-44f0-baec-0629797483d7/orig",
+    "position": 13
+  },
+  {
+    "id": 342,
+    "title": "Pulp Fiction",
+    "rating": "8.652",
+    "year": 1994,
+    "budget": 8000000,
+    "gross": 213928762,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/87b5659d-a159-4224-9bff-d5a5d109a53b/orig",
+    "position": 14
+  },
+  {
+    "id": 476,
+    "title": "Back to the Future",
+    "rating": "8.646",
+    "year": 1985,
+    "budget": 19000000,
+    "gross": 381109762,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/73cf2ed0-fd52-47a2-9e26-74104360786a/orig",
+    "position": 15
+  },
+  {
+    "id": 77263,
+    "title": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей",
+    "rating": "8.644",
+    "year": 1981,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/f08ba921-02dd-4d19-9c15-757e040335d6/orig",
+    "position": 16
+  },
+  {
+    "id": 32898,
+    "title": "Knockin' on Heaven's Door",
+    "rating": "8.644",
+    "year": 1997,
+    "budget": 4300000,
+    "gross": 214139,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/df6c9527-c2cb-4a17-b4bd-1ed05d2e733d/orig",
+    "position": 17
+  },
+  {
+    "id": 258687,
+    "title": "Interstellar",
+    "rating": "8.64",
+    "year": 2014,
+    "budget": 165000000,
+    "gross": 733202212,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/430042eb-ee69-4818-aed0-a312400a26bf/orig",
+    "position": 18
+  },
+  {
+    "id": 328,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": "8.614",
+    "year": 2001,
+    "budget": 93000000,
+    "gross": 883407846,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/a2d5bcae-a1a9-442f-8195-f5373a5ba77f/orig",
+    "position": 19
+  },
+  {
+    "id": 1143242,
+    "title": "The Gentlemen",
+    "rating": "8.611",
+    "year": 2019,
+    "budget": 22000000,
+    "gross": 115171795,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/637271d5-61b4-4e46-ac83-6d07494c7645/orig",
+    "position": 20
+  },
+  {
+    "id": 312,
+    "title": "The Lord of the Rings: The Two Towers",
+    "rating": "8.61",
+    "year": 2002,
+    "budget": 94000000,
+    "gross": 948945489,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/772093e4-7f68-49aa-a805-d654693aee26/orig",
+    "position": 21
+  },
+  {
+    "id": 77269,
+    "title": "Шерлок Холмс и доктор Ватсон: Знакомство",
+    "rating": "8.594",
+    "year": 1979,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/c5ee4880-336c-428e-9829-029bb54bcf17/orig",
+    "position": 22
+  },
+  {
+    "id": 474,
+    "title": "Gladiator",
+    "rating": "8.585",
+    "year": 2000,
+    "budget": 103000000,
+    "gross": 460583960,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/7c3460dc-344d-433f-8220-f18d86c8397d/orig",
+    "position": 23
+  },
+  {
+    "id": 522,
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "rating": "8.559",
+    "year": 1998,
+    "budget": 960000,
+    "gross": 3753929,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/6492653f-11d5-4087-a1d2-ec7a74f161d3/orig",
+    "position": 24
+  },
+  {
+    "id": 43395,
+    "title": "...А зори здесь тихие",
+    "rating": "8.555",
+    "year": 1972,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/7d011306-5cf5-421d-b01d-3684e500be92/orig",
+    "position": 25
+  },
+  {
+    "id": 526,
+    "title": "Snatch",
+    "rating": "8.554",
+    "year": 2000,
+    "budget": 10000000,
+    "gross": 83557872,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/47fe48f6-ff17-4411-a12f-d337bea2639d/orig",
+    "position": 26
+  },
+  {
+    "id": 44386,
+    "title": "Джентльмены удачи",
+    "rating": "8.553",
+    "year": 1971,
+    "gross": 10560943,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/218102a7-96be-4d7e-8029-815de0f37cfa/orig",
+    "position": 27
+  },
+  {
+    "id": 5105855,
+    "title": "One Life",
+    "rating": "8.547",
+    "year": 2023,
+    "gross": 56475835,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/4564801f-fe39-4493-b042-98038357d242/orig",
+    "position": 28
+  },
+  {
+    "id": 4395219,
+    "title": "Zhong quan ba gong",
+    "rating": "8.547",
+    "year": 2023,
+    "gross": 42463099,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/50e2559d-c29c-494b-b729-3961352e20bc/orig",
+    "position": 29
+  },
+  {
+    "id": 530,
+    "title": "A Beautiful Mind",
+    "rating": "8.543",
+    "year": 2001,
+    "budget": 58000000,
+    "gross": 313542341,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/80f21137-eebb-4cdc-8124-96c68c07c2a8/orig",
+    "position": 30
+  },
+  {
+    "id": 397667,
+    "title": "Shutter Island",
+    "rating": "8.536",
+    "year": 2009,
+    "budget": 80000000,
+    "gross": 294804195,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/617303b7-cfa7-4273-bd1d-63974bf68927/orig",
+    "position": 31
+  },
+  {
+    "id": 370,
+    "title": "Sen to Chihiro no kamikakushi",
+    "rating": "8.531",
+    "year": 2001,
+    "budget": 19000000,
+    "gross": 355467076,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10812607/ee04f3d4-6e87-4b34-93f8-95b4f33954a5/orig",
+    "position": 32
+  },
+  {
+    "id": 327,
+    "title": "The Godfather: Part II",
+    "rating": "8.53",
+    "year": 1974,
+    "budget": 13000000,
+    "gross": 47643435,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/33474b2a-d670-47c8-9cbe-51291847b6d4/orig",
+    "position": 33
+  },
+  {
+    "id": 324,
+    "title": "Catch Me If You Can",
+    "rating": "8.53",
+    "year": 2002,
+    "budget": 52000000,
+    "gross": 352114312,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e38dd6f9-610e-4c90-8540-dc48560cb9cc/orig",
+    "position": 34
+  },
+  {
+    "id": 111543,
+    "title": "The Dark Knight",
+    "rating": "8.527",
+    "year": 2008,
+    "budget": 185000000,
+    "gross": 1003045358,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0fa5bf50-d5ad-446f-a599-b26d070c8b99/orig",
+    "position": 35
+  },
+  {
+    "id": 46225,
+    "title": "Бриллиантовая рука",
+    "rating": "8.525",
+    "year": 1968,
+    "gross": 2266,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/32ef92db-5cbb-426d-acf9-2327b695edf8/orig",
+    "position": 36
+  },
+  {
+    "id": 346,
+    "title": "12 Angry Men",
+    "rating": "8.523",
+    "year": 1956,
+    "budget": 340000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/081f9649-0bbd-4232-b4d7-1312c64e567c/orig",
+    "position": 37
+  },
+  {
+    "id": 195334,
+    "title": "The Prestige",
+    "rating": "8.517",
+    "year": 2006,
+    "budget": 40000000,
+    "gross": 109676311,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/0e1384ae-6367-4bba-9e5d-d91c6625371e/orig",
+    "position": 38
+  },
+  {
+    "id": 336,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "rating": "8.514",
+    "year": 1975,
+    "budget": 3000000,
+    "gross": 108981275,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/3521be40-0419-4864-9d62-461cc7959f2c/orig",
+    "position": 39
+  },
+  {
+    "id": 1108577,
+    "title": "Green Book",
+    "rating": "8.5",
+    "year": 2018,
+    "budget": 23000000,
+    "gross": 321752656,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/4b27e219-a8a5-4d85-9874-57d6016e0837/orig",
+    "position": 40
+  },
+  {
+    "id": 301,
+    "title": "The Matrix",
+    "rating": "8.498",
+    "year": 1999,
+    "budget": 63000000,
+    "gross": 463517383,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/cf1970bc-3f08-4e0e-a095-2fb57c3aa7c6/orig",
+    "position": 41
+  },
+  {
+    "id": 42770,
+    "title": "Они сражались за Родину",
+    "rating": "8.495",
+    "year": 1975,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/3c933437-f01a-4a21-abae-69369456aa9c/orig",
+    "position": 42
+  },
+  {
+    "id": 44745,
+    "title": "Кавказская пленница, или Новые приключения Шурика",
+    "rating": "8.474",
+    "year": 1966,
+    "budget": 25313,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/d681bcf8-0fc2-4f2e-a772-0a01920e62b3/orig",
+    "position": 43
+  },
+  {
+    "id": 355,
+    "title": "The Pianist",
+    "rating": "8.467",
+    "year": 2002,
+    "budget": 35000000,
+    "gross": 120072577,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/6d71694e-3796-4e1c-96aa-0e982c2bc03d/orig",
+    "position": 44
+  },
+  {
+    "id": 81314,
+    "title": "The Departed",
+    "rating": "8.457",
+    "year": 2006,
+    "budget": 90000000,
+    "gross": 291465034,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/f2c70176-43c8-4ca6-8f67-7119a2b73f19/orig",
+    "position": 45
+  },
+  {
+    "id": 1228407,
+    "title": "Крик тишины",
+    "rating": "8.456",
+    "year": 2019,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/a3c9705f-e6cc-40d6-821f-ced1b04308f2/orig",
+    "position": 46
+  },
+  {
+    "id": 4871,
+    "title": "Scent of a Woman",
+    "rating": "8.446",
+    "year": 1992,
+    "budget": 31000000,
+    "gross": 134095253,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/378890fe-a68d-45ba-a87e-9108ae0e4574/orig",
+    "position": 47
+  },
+  {
+    "id": 44168,
+    "title": "Девчата",
+    "rating": "8.44",
+    "year": 1962,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/d5ee73ae-82af-4f60-af5e-f080bed523d8/orig",
+    "position": 48
+  },
+  {
+    "id": 5457899,
+    "title": "The Wild Robot",
+    "rating": "8.426",
+    "year": 2024,
+    "budget": 78000000,
+    "gross": 321878660,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/39d6ce73-5ec5-443c-8173-d790c1088201/orig",
+    "position": 49
+  },
+  {
+    "id": 354799,
+    "title": "Шерлок Холмс и доктор Ватсон: Смертельная схватка",
+    "rating": "8.423",
+    "year": 1980,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/4faf245a-e3d4-4f41-9284-b23fa9e2cb69/orig",
+    "position": 50
+  },
+  {
+    "id": 4384109,
+    "title": "White Bird",
+    "rating": "8.417",
+    "year": 2023,
+    "gross": 8549090,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/4d35113c-a287-415e-82b6-e16c6e19107e/orig",
+    "position": 51
+  },
+  {
+    "id": 368937,
+    "title": "Приключения Шерлока Холмса и доктора Ватсона: Охота на тигра",
+    "rating": "8.412",
+    "year": 1980,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/a363b456-4477-4318-9597-1d0dfd2ab9a7/orig",
+    "position": 52
+  },
+  {
+    "id": 63912,
+    "title": "Il bisbetico domato",
+    "rating": "8.405",
+    "year": 1980,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/76df764b-1c8b-4bc2-a822-fb2cf1afe2e3/orig",
+    "position": 53
+  },
+  {
+    "id": 77335,
+    "title": "Собачье сердце",
+    "rating": "8.405",
+    "year": 1988,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/a477f092-e2ed-4a9d-a5f1-001438e88ab5/orig",
+    "position": 54
+  },
+  {
+    "id": 958722,
+    "title": "Kimi no na wa.",
+    "rating": "8.386",
+    "year": 2016,
+    "gross": 357986087,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/e849937d-99d7-418f-bbaa-0a7e7cfff385/orig",
+    "position": 55
+  },
+  {
+    "id": 2213,
+    "title": "Titanic",
+    "rating": "8.386",
+    "year": 1997,
+    "budget": 200000000,
+    "gross": 2264743305,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/96d93e3a-fdbf-4b6f-b02d-2fc9c2648a18/orig",
+    "position": 56
+  },
+  {
+    "id": 456,
+    "title": "Gone with the Wind",
+    "rating": "8.385",
+    "year": 1939,
+    "budget": 3977000,
+    "gross": 391023031,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/44bc3765-61ca-4487-8efd-045138a7dfd0/orig",
+    "position": 57
+  },
+  {
+    "id": 444,
+    "title": "Terminator 2: Judgment Day",
+    "rating": "8.382",
+    "year": 1991,
+    "budget": 102000000,
+    "gross": 516950043,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/ade65029-952f-488d-87b2-20c676970151/orig",
+    "position": 58
+  },
+  {
+    "id": 4374,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "rating": "8.377",
+    "year": 2003,
+    "budget": 140000000,
+    "gross": 654264015,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/d7e3dbd6-e4a9-4485-b751-d02f49825166/orig",
+    "position": 59
+  },
+  {
+    "id": 1219177,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "rating": "8.366",
+    "year": 2023,
+    "budget": 150000000,
+    "gross": 690542303,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/4df6ae79-1fef-4a72-b55d-9be66233af1e/orig",
+    "position": 60
+  },
+  {
+    "id": 387556,
+    "title": "Hachi: A Dog's Tale",
+    "rating": "8.365",
+    "year": 2008,
+    "budget": 16000000,
+    "gross": 46184345,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/82f8a2dc-a439-4832-9f0f-dc599e6e78d2/orig",
+    "position": 61
+  },
+  {
+    "id": 725190,
+    "title": "Whiplash",
+    "rating": "8.363",
+    "year": 2013,
+    "budget": 3300000,
+    "gross": 48982041,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/16af46be-bcfe-461e-af54-ff17b905b82e/orig",
+    "position": 62
+  },
+  {
+    "id": 803422,
+    "title": "Pelé: Birth of a Legend",
+    "rating": "8.356",
+    "year": 2015,
+    "gross": 7846608,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/fa81d84c-9c37-4404-87bf-5d14efe188a5/orig",
+    "position": 63
+  },
+  {
+    "id": 7724,
+    "title": "Летят журавли",
+    "rating": "8.349",
+    "year": 1957,
+    "gross": 14626,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/93397e62-0402-4cf9-9b4a-e462fea91963/orig",
+    "position": 64
+  },
+  {
+    "id": 49684,
+    "title": "Howl no Ugoku Shiro",
+    "rating": "8.346",
+    "year": 2004,
+    "budget": 24000000,
+    "gross": 259713523,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/399bb0c1-2ac5-46ca-9efd-50d8708e2809/orig",
+    "position": 65
+  },
+  {
+    "id": 77283,
+    "title": "Тот самый Мюнхгаузен",
+    "rating": "8.34",
+    "year": 1979,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/15c9a24e-8f3b-4a09-9440-5d5c16d0ce7d/orig",
+    "position": 66
+  },
+  {
+    "id": 345,
+    "title": "The Silence of the Lambs",
+    "rating": "8.335",
+    "year": 1990,
+    "budget": 19000000,
+    "gross": 272742922,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/9c655ce1-2b59-4941-97aa-f9e928ed0ff4/orig",
+    "position": 67
+  },
+  {
+    "id": 41519,
+    "title": "Брат",
+    "rating": "8.331",
+    "year": 1997,
+    "gross": 1362281,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e9008e2f-433f-43b0-b9b8-2ea8e3fb6c9b/orig",
+    "position": 68
+  },
+  {
+    "id": 1108571,
+    "title": "Rémi sans famille",
+    "rating": "8.327",
+    "year": 2018,
+    "gross": 7443906,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/3bb8ef0f-0230-4eeb-acb0-e2b44329de37/orig",
+    "position": 69
+  },
+  {
+    "id": 1402937,
+    "title": "Arthur the King",
+    "rating": "8.316",
+    "year": 2024,
+    "budget": 19000000,
+    "gross": 40829138,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10809116/02f5c9fa-8ed2-455b-9861-1a01252d73f4/orig",
+    "position": 70
+  },
+  {
+    "id": 5502,
+    "title": "Back to the Future Part II",
+    "rating": "8.316",
+    "year": 1989,
+    "budget": 40000000,
+    "gross": 331950002,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/01c1d758-900b-446a-8e0a-c76514b7afae/orig",
+    "position": 71
+  },
+  {
+    "id": 377,
+    "title": "Se7en",
+    "rating": "8.297",
+    "year": 1995,
+    "budget": 33000000,
+    "gross": 327311859,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/9ce4716c-dd27-435b-8a3a-f833ad859052/orig",
+    "position": 72
+  },
+  {
+    "id": 382,
+    "title": "American History X",
+    "rating": "8.296",
+    "year": 1998,
+    "budget": 20000000,
+    "gross": 23875127,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e0eb0512-5180-41d4-8788-f22d77b79501/orig",
+    "position": 73
+  },
+  {
+    "id": 1103852,
+    "title": "Sayonara no asa ni yakusoku no hana o kazaro",
+    "rating": "8.294",
+    "year": 2018,
+    "gross": 1979604,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/551571aa-2c50-41b2-9ffb-51878e443054/orig",
+    "position": 74
+  },
+  {
+    "id": 4541,
+    "title": "The Truman Show",
+    "rating": "8.281",
+    "year": 1998,
+    "budget": 60000000,
+    "gross": 264118201,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/ceb4574e-4b3b-43bf-a217-770d95c8afea/orig",
+    "position": 75
+  },
+  {
+    "id": 42571,
+    "title": "Иди и смотри",
+    "rating": "8.28",
+    "year": 1985,
+    "gross": 96908,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/df3bcf7f-ca39-45d1-991e-5b8727fe5c1d/orig",
+    "position": 76
+  },
+  {
+    "id": 689,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "rating": "8.278",
+    "year": 2001,
+    "budget": 125000000,
+    "gross": 1024274107,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/27ed5c19-a045-49dd-8624-5f629c5d96e0/orig",
+    "position": 77
+  },
+  {
+    "id": 8124,
+    "title": "Home Alone",
+    "rating": "8.277",
+    "year": 1990,
+    "budget": 18000000,
+    "gross": 476684675,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/022a58e3-5b9b-411b-bfb3-09fedb700401/orig",
+    "position": 78
+  },
+  {
+    "id": 1032308,
+    "title": "L'école buissonnière",
+    "rating": "8.275",
+    "year": 2017,
+    "gross": 14884656,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/8381e8bb-11b9-4380-8a05-597ef99030b1/orig",
+    "position": 79
+  },
+  {
+    "id": 46789,
+    "title": "12 стульев",
+    "rating": "8.274",
+    "year": 1971,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e4eec3b9-cb0b-481c-bd2f-b80bdb67a3a8/orig",
+    "position": 80
+  },
+  {
+    "id": 45660,
+    "title": "Вам и не снилось...",
+    "rating": "8.267",
+    "year": 1980,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0d59cea8-7f92-4d23-90a1-79d4485524fd/orig",
+    "position": 81
+  },
+  {
+    "id": 77203,
+    "title": "Покровские ворота",
+    "rating": "8.266",
+    "year": 1982,
+    "gross": 8101,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/62aa468b-fada-44c5-b7e6-9748a552f391/orig",
+    "position": 82
+  },
+  {
+    "id": 104938,
+    "title": "The Pursuit of Happyness",
+    "rating": "8.261",
+    "year": 2006,
+    "budget": 55000000,
+    "gross": 307077295,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/88d2a9f4-8bc7-451a-b6ef-9eb8bef2b245/orig",
+    "position": 83
+  },
+  {
+    "id": 12198,
+    "title": "The Game",
+    "rating": "8.256",
+    "year": 1997,
+    "budget": 50000000,
+    "gross": 109423648,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/d753a460-0ece-4007-84d9-02d7a2968829/orig",
+    "position": 84
+  },
+  {
+    "id": 627,
+    "title": "Cast Away",
+    "rating": "8.254",
+    "year": 2000,
+    "budget": 90000000,
+    "gross": 429632142,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/249ec6b5-b02a-4a17-a31a-0fb2d03f963e/orig",
+    "position": 85
+  },
+  {
+    "id": 1421591,
+    "title": "Небо",
+    "rating": "8.252",
+    "year": 2021,
+    "gross": 2250889,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/c4433b46-1517-4b27-a991-e73e3b159fa3/orig",
+    "position": 86
+  },
+  {
+    "id": 848894,
+    "title": "En man som heter Ove",
+    "rating": "8.252",
+    "year": 2015,
+    "gross": 30692889,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/0d39048c-01ec-4e1f-a376-7581387c77df/orig",
+    "position": 87
+  },
+  {
+    "id": 3561,
+    "title": "The Notebook",
+    "rating": "8.249",
+    "year": 2004,
+    "budget": 29000000,
+    "gross": 115533700,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/c48824e7-89fc-4d6f-a55a-57a8fa05d38c/orig",
+    "position": 88
+  },
+  {
+    "id": 965754,
+    "title": "Only the Brave",
+    "rating": "8.246",
+    "year": 2017,
+    "budget": 38000000,
+    "gross": 26351322,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/946e69f2-80eb-41c1-b1cd-695a4644be55/orig",
+    "position": 89
+  },
+  {
+    "id": 441,
+    "title": "Mononoke-hime",
+    "rating": "8.244",
+    "year": 1997,
+    "budget": 2400000000,
+    "gross": 159414369,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/0f8a0f49-c2e4-4d9e-a0dc-d8972b7a619f/orig",
+    "position": 90
+  },
+  {
+    "id": 4996,
+    "title": "Dead Poets Society",
+    "rating": "8.242",
+    "year": 1989,
+    "budget": 16400000,
+    "gross": 235860116,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/66058481-9b77-4b51-9d4b-65db5cd796d2/orig",
+    "position": 91
+  },
+  {
+    "id": 470553,
+    "title": "The Help",
+    "rating": "8.241",
+    "year": 2011,
+    "budget": 25000000,
+    "gross": 216639112,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/f1c4d9cb-2120-487c-a84a-cbb8e5c462c0/orig",
+    "position": 92
+  },
+  {
+    "id": 586397,
+    "title": "Django Unchained",
+    "rating": "8.24",
+    "year": 2012,
+    "budget": 100000000,
+    "gross": 425368238,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/401c67e4-5047-42c2-8668-aeda39da529f/orig",
+    "position": 93
+  },
+  {
+    "id": 1191022,
+    "title": "Подольские курсанты",
+    "rating": "8.239",
+    "year": 2020,
+    "budget": 420000000,
+    "gross": 32918,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/de10de1e-aada-4445-9e65-ec764022600a/orig",
+    "position": 94
+  },
+  {
+    "id": 41520,
+    "title": "Брат 2",
+    "rating": "8.237",
+    "year": 2000,
+    "budget": 1500000,
+    "gross": 543825,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/80eab631-346c-4c29-b14d-1fa1438158f9/orig",
+    "position": 95
+  },
+  {
+    "id": 322,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "rating": "8.233",
+    "year": 2004,
+    "budget": 130000000,
+    "gross": 807041049,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/3eabac99-fb98-4b12-ba9f-6172782d54c6/orig",
+    "position": 96
+  },
+  {
+    "id": 4540126,
+    "title": "Dune: Part Two",
+    "rating": "8.231",
+    "year": 2024,
+    "budget": 190000000,
+    "gross": 714444358,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/0c67265b-6631-4e25-b89c-3ddf4e5a1ee7/orig",
+    "position": 97
+  },
+  {
+    "id": 1008113,
+    "title": "Taeksi unjeonsa",
+    "rating": "8.222",
+    "year": 2017,
+    "budget": 13000000,
+    "gross": 89997657,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/59f6ce5c-4938-49d1-a1f7-5b9055ca541c/orig",
+    "position": 98
+  },
+  {
+    "id": 46368,
+    "title": "Не может быть!",
+    "rating": "8.221",
+    "year": 1975,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/62f8ff65-2a90-49c1-aeda-c7fa511ff409/orig",
+    "position": 99
+  },
+  {
+    "id": 649917,
+    "title": "Hacksaw Ridge",
+    "rating": "8.22",
+    "year": 2016,
+    "budget": 40000000,
+    "gross": 180563636,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/83a758fc-d3f9-485a-b75f-530fb611d63c/orig",
+    "position": 100
+  },
+  {
+    "id": 885317,
+    "title": "Bakemono no ko",
+    "rating": "8.219",
+    "year": 2015,
+    "gross": 49772185,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10592371/de33243b-a7c1-48a7-b7aa-0358acd1907b/orig",
+    "position": 101
+  },
+  {
+    "id": 864138,
+    "title": "Lion",
+    "rating": "8.197",
+    "year": 2016,
+    "budget": 12000000,
+    "gross": 140312928,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/1973365b-1c0b-4bb1-af0e-94e8d6140657/orig",
+    "position": 102
+  },
+  {
+    "id": 722951,
+    "title": "Wonder",
+    "rating": "8.196",
+    "year": 2017,
+    "budget": 20000000,
+    "gross": 305937718,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/6167ca6d-7aeb-4188-b1c3-6daaf437eea9/orig",
+    "position": 103
+  },
+  {
+    "id": 43602,
+    "title": "Самая обаятельная и привлекательная",
+    "rating": "8.192",
+    "year": 1985,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/ed461ca5-1a48-42b3-8c09-f0e021c0b0f4/orig",
+    "position": 104
+  },
+  {
+    "id": 7660,
+    "title": "Холодное лето пятьдесят третьего...",
+    "rating": "8.187",
+    "year": 1987,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/845206fa-315f-4955-8246-cd2ef3301dce/orig",
+    "position": 105
+  },
+  {
+    "id": 395,
+    "title": "The Sixth Sense",
+    "rating": "8.186",
+    "year": 1999,
+    "budget": 40000000,
+    "gross": 672806292,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/770e2754-f886-4012-852d-63580984a310/orig",
+    "position": 106
+  },
+  {
+    "id": 281251,
+    "title": "The Boy in the Striped Pajamas",
+    "rating": "8.186",
+    "year": 2008,
+    "budget": 12500000,
+    "gross": 40416563,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/84be7629-189d-4b13-8b35-fcf010512218/orig",
+    "position": 107
+  },
+  {
+    "id": 371,
+    "title": "Saving Private Ryan",
+    "rating": "8.184",
+    "year": 1998,
+    "budget": 70000000,
+    "gross": 481840909,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/9ebff88a-fdd1-4a90-b3cf-7fb5bd256ed7/orig",
+    "position": 108
+  },
+  {
+    "id": 41381,
+    "title": "В августе 44-го",
+    "rating": "8.182",
+    "year": 2001,
+    "budget": 5052780,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/afb8b5d1-6afd-4087-8bbe-abb79e39f328/orig",
+    "position": 109
+  },
+  {
+    "id": 430,
+    "title": "Shrek",
+    "rating": "8.175",
+    "year": 2001,
+    "budget": 60000000,
+    "gross": 484409218,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/7ade06a8-4178-4386-9ee2-87fec5a172eb/orig",
+    "position": 110
+  },
+  {
+    "id": 46638,
+    "title": "Мимино",
+    "rating": "8.174",
+    "year": 1977,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/a0a82a7d-4354-4aae-baef-3acbe0c0a487/orig",
+    "position": 111
+  },
+  {
+    "id": 4695,
+    "title": "Scarface",
+    "rating": "8.171",
+    "year": 1983,
+    "budget": 25000000,
+    "gross": 65144798,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/1303d9e8-8fdb-4290-a42f-0491a2910a83/orig",
+    "position": 112
+  },
+  {
+    "id": 3797,
+    "title": "The Devil's Advocate",
+    "rating": "8.169",
+    "year": 1997,
+    "budget": 57000000,
+    "gross": 152944660,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/cd363dbc-0cd7-46d7-a771-6b865c34923e/orig",
+    "position": 113
+  },
+  {
+    "id": 5167,
+    "title": "The Butterfly Effect",
+    "rating": "8.168",
+    "year": 2003,
+    "budget": 13000000,
+    "gross": 95707652,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/9cc3a3d5-d6fe-4f41-a22f-05cdff66e968/orig",
+    "position": 114
+  },
+  {
+    "id": 437410,
+    "title": "The Dark Knight Rises",
+    "rating": "8.166",
+    "year": 2012,
+    "budget": 250000000,
+    "gross": 1081041287,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/78a50ddd-1712-4bb0-869e-680963c1580e/orig",
+    "position": 115
+  },
+  {
+    "id": 407636,
+    "title": "Harry Potter and the Deathly Hallows - Part 2",
+    "rating": "8.158",
+    "year": 2011,
+    "budget": 125000000,
+    "gross": 1356841355,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/82b5cc4a-18c7-4180-a98a-0c96528d63dd/orig",
+    "position": 116
+  },
+  {
+    "id": 45314,
+    "title": "Жестокий романс",
+    "rating": "8.154",
+    "year": 1984,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/92e0ce01-04c8-4aa5-92ab-a4a49274d58d/orig",
+    "position": 117
+  },
+  {
+    "id": 354,
+    "title": "Apocalypse Now",
+    "rating": "8.145",
+    "year": 1979,
+    "budget": 31500000,
+    "gross": 83669098,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/a0d6537e-72ee-47f2-b51f-ef776b1b9cdf/orig",
+    "position": 118
+  },
+  {
+    "id": 63991,
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "rating": "8.141",
+    "year": 2006,
+    "budget": 225000000,
+    "gross": 1066179725,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/2f896b6f-397e-40ef-ae19-e9cb0b2d9675/orig",
+    "position": 119
+  },
+  {
+    "id": 944098,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "rating": "8.14",
+    "year": 2017,
+    "budget": 15000000,
+    "gross": 160060063,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/9a78d4ef-5b3b-49e5-9390-735167d01fdf/orig",
+    "position": 120
+  },
+  {
+    "id": 1188529,
+    "title": "Knives Out",
+    "rating": "8.139",
+    "year": 2019,
+    "budget": 40000000,
+    "gross": 312897920,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/bb8afbd6-c9cd-4631-99e9-3fecf241dbaf/orig",
+    "position": 121
+  },
+  {
+    "id": 527,
+    "title": "Groundhog Day",
+    "rating": "8.139",
+    "year": 1993,
+    "budget": 14600000,
+    "gross": 70906973,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/ed4f90cb-188b-4cac-a41a-c175ff9b9e48/orig",
+    "position": 122
+  },
+  {
+    "id": 86326,
+    "title": "Lucky Number Slevin",
+    "rating": "8.137",
+    "year": 2005,
+    "budget": 27000000,
+    "gross": 56308881,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/b902fcb3-ca6f-4247-8e70-69f84e67087e/orig",
+    "position": 123
+  },
+  {
+    "id": 688,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "rating": "8.135",
+    "year": 2002,
+    "budget": 100000000,
+    "gross": 927068901,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/1ef65bfb-b16b-42aa-a54a-758395253290/orig",
+    "position": 124
+  },
+  {
+    "id": 81297,
+    "title": "Million Dollar Baby",
+    "rating": "8.134",
+    "year": 2004,
+    "budget": 30000000,
+    "gross": 216763646,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/4c6a018e-1cee-4f83-bd17-25f0dc99f28e/orig",
+    "position": 125
+  },
+  {
+    "id": 126196,
+    "title": "Das Leben der Anderen",
+    "rating": "8.132",
+    "year": 2006,
+    "budget": 2000000,
+    "gross": 77356942,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/387722e9-9650-472a-9220-8616afc73d54/orig",
+    "position": 126
+  },
+  {
+    "id": 2494,
+    "title": "Casino",
+    "rating": "8.13",
+    "year": 1995,
+    "budget": 52000000,
+    "gross": 116112375,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/b648db4a-60c5-4cd8-ab8a-4f79d5609cd5/orig",
+    "position": 127
+  },
+  {
+    "id": 81733,
+    "title": "Pride & Prejudice",
+    "rating": "8.128",
+    "year": 2005,
+    "budget": 28000000,
+    "gross": 120191768,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/fa8474e9-35ca-447c-9dca-baf879ccaa9e/orig",
+    "position": 128
+  },
+  {
+    "id": 350,
+    "title": "Goodfellas",
+    "rating": "8.127",
+    "year": 1990,
+    "budget": 25000000,
+    "gross": 46836394,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/7f119fc4-7fe0-4738-9fa4-bc541d468911/orig",
+    "position": 129
+  },
+  {
+    "id": 2656,
+    "title": "The Fifth Element",
+    "rating": "8.125",
+    "year": 1997,
+    "budget": 90000000,
+    "gross": 263920180,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/9e9e2b2c-a3c1-462e-8d84-e6a19fbe5b9c/orig",
+    "position": 130
+  },
+  {
+    "id": 6877,
+    "title": "The Terminal",
+    "rating": "8.123",
+    "year": 2004,
+    "budget": 60000000,
+    "gross": 218685607,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/0bb13a61-cfbe-4c76-b72e-f799bc9b7d79/orig",
+    "position": 131
+  },
+  {
+    "id": 4664634,
+    "title": "Oppenheimer",
+    "rating": "8.12",
+    "year": 2023,
+    "budget": 100000000,
+    "gross": 975594978,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/c5292109-642c-4ab0-894a-cc304e1bcec4/orig",
+    "position": 132
+  },
+  {
+    "id": 394,
+    "title": "Reservoir Dogs",
+    "rating": "8.115",
+    "year": 1991,
+    "budget": 1200000,
+    "gross": 2832029,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/b1add366-9e49-4ad8-905a-46ca23da8adc/orig",
+    "position": 133
+  },
+  {
+    "id": 5619,
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "rating": "8.115",
+    "year": 2005,
+    "budget": 113000000,
+    "gross": 849997605,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/2720c811-4065-43cf-9fc5-bd18ee3dbbf0/orig",
+    "position": 134
+  },
+  {
+    "id": 278522,
+    "title": "The Hobbit: An Unexpected Journey",
+    "rating": "8.111",
+    "year": 2012,
+    "budget": 180000000,
+    "gross": 1017003568,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/0e569ebd-0639-416b-92c5-2afffbd5d089/orig",
+    "position": 135
+  },
+  {
+    "id": 46066,
+    "title": "Белое солнце пустыни",
+    "rating": "8.107",
+    "year": 1969,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/d048a6d1-16a9-445e-821d-fce1742d6309/orig",
+    "position": 136
+  },
+  {
+    "id": 906042,
+    "title": "Paddington 2",
+    "rating": "8.105",
+    "year": 2017,
+    "budget": 40000000,
+    "gross": 227291591,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/cd9d3979-bf12-4e73-9ebc-0ba2f1474aa4/orig",
+    "position": 137
+  },
+  {
+    "id": 808639,
+    "title": "Дурак",
+    "rating": "8.103",
+    "year": 2014,
+    "budget": 1300000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/2275fc68-29d5-45a1-b48d-e14774bf3b27/orig",
+    "position": 138
+  },
+  {
+    "id": 596125,
+    "title": "Rush",
+    "rating": "8.101",
+    "year": 2013,
+    "budget": 38000000,
+    "gross": 90247624,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/2bf5ff35-e2d6-4e3e-8b02-c42526187d4f/orig",
+    "position": 139
+  },
+  {
+    "id": 1134493,
+    "title": "Sound of Freedom",
+    "rating": "8.101",
+    "year": 2023,
+    "budget": 14600000,
+    "gross": 250570396,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10900341/4fb19ff4-34f2-42de-be25-521b1fcdc2fe/orig",
+    "position": 140
+  },
+  {
+    "id": 4948870,
+    "title": "La Tresse",
+    "rating": "8.1",
+    "year": 2023,
+    "gross": 7012712,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/d0458188-220c-41fd-bfe9-1b17e9616901/orig",
+    "position": 141
+  },
+  {
+    "id": 738,
+    "title": "The Life of David Gale",
+    "rating": "8.098",
+    "year": 2002,
+    "budget": 38000000,
+    "gross": 38955598,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/09a852e0-394e-457e-b637-880cadc38dd2/orig",
+    "position": 142
+  },
+  {
+    "id": 43423,
+    "title": "Афоня",
+    "rating": "8.097",
+    "year": 1975,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/908f8e1a-0a4d-4f2b-9725-228ce96f0c62/orig",
+    "position": 143
+  },
+  {
+    "id": 840821,
+    "title": "Puss in Boots: The Last Wish",
+    "rating": "8.093",
+    "year": 2022,
+    "budget": 90000000,
+    "gross": 481757663,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/19b2a831-d81b-4364-a82a-dc6ca779023f/orig",
+    "position": 144
+  },
+  {
+    "id": 45463,
+    "title": "Человек с бульвара Капуцинов",
+    "rating": "8.09",
+    "year": 1987,
+    "budget": 750000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/ecb6899e-44cd-473c-8ebf-98cfcbf1b151/orig",
+    "position": 145
+  },
+  {
+    "id": 7640,
+    "title": "Bicentennial Man",
+    "rating": "8.089",
+    "year": 1999,
+    "budget": 100000000,
+    "gross": 87423861,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/8b171b14-74a3-4880-835b-2b21b8481e9a/orig",
+    "position": 146
+  },
+  {
+    "id": 843649,
+    "title": "Avengers: Infinity War",
+    "rating": "8.081",
+    "year": 2018,
+    "budget": 321000000,
+    "gross": 2048359754,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/af92d310-4ae5-4daa-b42c-5bcc380c2e6e/orig",
+    "position": 147
+  },
+  {
+    "id": 5059,
+    "title": "Meet Joe Black",
+    "rating": "8.078",
+    "year": 1998,
+    "budget": 90000000,
+    "gross": 142940100,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/a7dabae7-43a1-4702-aa22-c9faaadee54d/orig",
+    "position": 148
+  },
+  {
+    "id": 386,
+    "title": "Alien",
+    "rating": "8.077",
+    "year": 1979,
+    "budget": 11000000,
+    "gross": 99932689,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/14af6019-b2fe-4e1e-bee5-334d9e472d94/orig",
+    "position": 149
+  },
+  {
+    "id": 645118,
+    "title": "Inside Out",
+    "rating": "8.077",
+    "year": 2015,
+    "budget": 175000000,
+    "gross": 857611174,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/fe96f444-f022-4d14-a40f-7c1f35cc6ab8/orig",
+    "position": 150
+  },
+  {
+    "id": 571896,
+    "title": "A Dog's Purpose",
+    "rating": "8.074",
+    "year": 2017,
+    "budget": 22000000,
+    "gross": 205035819,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/9ecb0974-ad01-4fde-9067-c6d147b880f4/orig",
+    "position": 151
+  },
+  {
+    "id": 959606,
+    "title": "Werk ohne Autor",
+    "rating": "8.071",
+    "year": 2018,
+    "gross": 6193234,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/5884c004-d733-418e-8e94-d50759eac02e/orig",
+    "position": 152
+  },
+  {
+    "id": 75871,
+    "title": "Oldeuboi",
+    "rating": "8.071",
+    "year": 2003,
+    "budget": 3000000,
+    "gross": 14980005,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/f91ef1b3-aeff-4835-8117-8a23781f2533/orig",
+    "position": 153
+  },
+  {
+    "id": 44811,
+    "title": "Кин-дза-дза!",
+    "rating": "8.07",
+    "year": 1986,
+    "gross": 10096,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/4495b850-219d-4ca3-a2d8-ada7c8c2824f/orig",
+    "position": 154
+  },
+  {
+    "id": 436263,
+    "title": "Брестская крепость",
+    "rating": "8.067",
+    "year": 2010,
+    "budget": 253000000,
+    "gross": 4569371,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/b7f7bf0b-103b-47ed-998d-30e3eb9f2b1c/orig",
+    "position": 155
+  },
+  {
+    "id": 40955,
+    "title": "Приходи на меня посмотреть",
+    "rating": "8.066",
+    "year": 2000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/cdca2aed-0966-464a-b82d-b44f5603be51/orig",
+    "position": 156
+  },
+  {
+    "id": 81555,
+    "title": "The Curious Case of Benjamin Button",
+    "rating": "8.066",
+    "year": 2008,
+    "budget": 150000000,
+    "gross": 333932083,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/6ffcf4e6-d512-4eac-a404-7344f5371255/orig",
+    "position": 157
+  },
+  {
+    "id": 406,
+    "title": "Aliens",
+    "rating": "8.064",
+    "year": 1986,
+    "budget": 18500000,
+    "gross": 131060248,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/cc6ba1ce-a005-4e39-b913-06e8c866817c/orig",
+    "position": 158
+  },
+  {
+    "id": 102124,
+    "title": "Pirates of the Caribbean: At World's End",
+    "rating": "8.063",
+    "year": 2007,
+    "budget": 300000000,
+    "gross": 960996492,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/dfa69f9c-3c71-436f-9b1d-797cd562f04a/orig",
+    "position": 159
+  },
+  {
+    "id": 45822,
+    "title": "Вокзал для двоих",
+    "rating": "8.058",
+    "year": 1982,
+    "gross": 4096,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/f2f767fd-3fd1-4319-a95a-902fcd23963d/orig",
+    "position": 160
+  },
+  {
+    "id": 723,
+    "title": "K-PAX",
+    "rating": "8.055",
+    "year": 2001,
+    "budget": 68000000,
+    "gross": 65001485,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/711a1449-e6bb-467c-b01b-1846c9f87476/orig",
+    "position": 161
+  },
+  {
+    "id": 255611,
+    "title": "Atonement",
+    "rating": "8.051",
+    "year": 2007,
+    "budget": 20000000,
+    "gross": 129266061,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/93d7c297-15d6-48e4-907a-88ef9ce359c0/orig",
+    "position": 162
+  },
+  {
+    "id": 3442,
+    "title": "Troy",
+    "rating": "8.048",
+    "year": 2004,
+    "budget": 175000000,
+    "gross": 497409852,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/975ba4cc-161d-450b-9f2f-fc26018d36e4/orig",
+    "position": 163
+  },
+  {
+    "id": 645276,
+    "title": "The Physician",
+    "rating": "8.047",
+    "year": 2013,
+    "budget": 36000000,
+    "gross": 54000000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/4236cf68-84e6-42b8-9ea8-b2a12ea58cef/orig",
+    "position": 164
+  },
+  {
+    "id": 610,
+    "title": "Billy Elliot",
+    "rating": "8.043",
+    "year": 2000,
+    "budget": 5000000,
+    "gross": 109280263,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/9d509077-7025-4875-88f0-f9c3e7e4cca7/orig",
+    "position": 165
+  },
+  {
+    "id": 45028,
+    "title": "Курьер",
+    "rating": "8.043",
+    "year": 1986,
+    "gross": 20192,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/b61f7025-8f50-4d74-83d5-fc14f93952d9/orig",
+    "position": 166
+  },
+  {
+    "id": 485311,
+    "title": "The King's Speech",
+    "rating": "8.042",
+    "year": 2010,
+    "budget": 15000000,
+    "gross": 410867243,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/87b66d75-b407-4f5b-924c-d3d3a9c96933/orig",
+    "position": 167
+  },
+  {
+    "id": 5492,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "rating": "8.042",
+    "year": 2004,
+    "budget": 20000000,
+    "gross": 72042875,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/6cd71c8d-c906-4430-83a2-60f31c345954/orig",
+    "position": 168
+  },
+  {
+    "id": 1091,
+    "title": "Men in Black",
+    "rating": "8.041",
+    "year": 1997,
+    "budget": 90000000,
+    "gross": 589390539,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/8daa2569-b300-47f9-b8e7-83f09a7af1a0/orig",
+    "position": 169
+  },
+  {
+    "id": 442568,
+    "title": "Warrior",
+    "rating": "8.04",
+    "year": 2011,
+    "budget": 25000000,
+    "gross": 23308615,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/ae52ff2c-c065-415d-8554-15904681707a/orig",
+    "position": 170
+  },
+  {
+    "id": 81512,
+    "title": "The World's Fastest Indian",
+    "rating": "8.04",
+    "year": 2005,
+    "budget": 25000000,
+    "gross": 18297690,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/425f7854-db51-45f7-a008-40f61e315950/orig",
+    "position": 171
+  },
+  {
+    "id": 406408,
+    "title": "Law Abiding Citizen",
+    "rating": "8.039",
+    "year": 2009,
+    "budget": 50000000,
+    "gross": 126690726,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e3a342a0-6e45-4771-aa76-7d70c2cc26f4/orig",
+    "position": 172
+  },
+  {
+    "id": 1043758,
+    "title": "Gisaengchung",
+    "rating": "8.039",
+    "year": 2019,
+    "budget": 11800000,
+    "gross": 266600532,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/aae3a928-6465-4bed-9af4-16929a44fd79/orig",
+    "position": 173
+  },
+  {
+    "id": 341,
+    "title": "Le Fabuleux destin d'Amélie Poulain",
+    "rating": "8.035",
+    "year": 2001,
+    "gross": 173921954,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/a49739d0-a2da-4e53-83c0-116fe2d4cc27/orig",
+    "position": 174
+  },
+  {
+    "id": 3563,
+    "title": "Interstate 60",
+    "rating": "8.035",
+    "year": 2001,
+    "budget": 7000000,
+    "gross": 8449,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/8d669692-92f0-402d-83da-7da41eec56f2/orig",
+    "position": 175
+  },
+  {
+    "id": 462682,
+    "title": "The Wolf of Wall Street",
+    "rating": "8.03",
+    "year": 2013,
+    "budget": 100000000,
+    "gross": 392000694,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/5c758ac0-7a5c-4f00-a94f-1be680a312fb/orig",
+    "position": 176
+  },
+  {
+    "id": 5928,
+    "title": "Home Alone 2: Lost in New York",
+    "rating": "8.03",
+    "year": 1992,
+    "budget": 18000000,
+    "gross": 358994850,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/e87b5842-3065-422e-81e8-59a1ffcd9b6a/orig",
+    "position": 177
+  },
+  {
+    "id": 160977,
+    "title": "Apocalypto",
+    "rating": "8.029",
+    "year": 2006,
+    "budget": 40000000,
+    "gross": 120654337,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/0ea65db5-0eb3-4c04-b8c6-22aa6fb6a302/orig",
+    "position": 178
+  },
+  {
+    "id": 425400,
+    "title": "Incendies",
+    "rating": "8.028",
+    "year": 2010,
+    "budget": 6800000,
+    "gross": 3548768,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/40b4b961-07ab-4ce3-892f-63d6bd1fabc6/orig",
+    "position": 179
+  },
+  {
+    "id": 681849,
+    "title": "La migliore offerta",
+    "rating": "8.028",
+    "year": 2012,
+    "budget": 13500000,
+    "gross": 20596350,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/b90b179d-b5f7-454c-80b3-60884a5ecd5f/orig",
+    "position": 180
+  },
+  {
+    "id": 5452393,
+    "title": "Le Comte de Monte-Cristo",
+    "rating": "8.021",
+    "year": 2024,
+    "budget": 42900000,
+    "gross": 74902654,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/f705ab5a-8687-4404-bb1c-13ac696ab2e3/orig",
+    "position": 181
+  },
+  {
+    "id": 841081,
+    "title": "La La Land",
+    "rating": "8.019",
+    "year": 2016,
+    "budget": 30000000,
+    "gross": 447407695,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/7e786437-eada-4d23-baea-f3a5ebf57e06/orig",
+    "position": 182
+  },
+  {
+    "id": 463694,
+    "title": "Tangshan da dizhen",
+    "rating": "8.017",
+    "year": 2010,
+    "budget": 25000000,
+    "gross": 100293273,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/42571afc-b3f9-4f95-915d-00acd154e6b4/orig",
+    "position": 183
+  },
+  {
+    "id": 439,
+    "title": "Cidade de Deus",
+    "rating": "8.016",
+    "year": 2002,
+    "budget": 3300000,
+    "gross": 30641770,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/253edce8-cf8c-4045-a40b-81fc19374b00/orig",
+    "position": 184
+  },
+  {
+    "id": 462606,
+    "title": "Limitless",
+    "rating": "8.015",
+    "year": 2011,
+    "budget": 26000000,
+    "gross": 161849455,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/d3bfd32d-41b4-48ad-9584-b3fc1f5669d4/orig",
+    "position": 185
+  },
+  {
+    "id": 418,
+    "title": "Full Metal Jacket",
+    "rating": "8.015",
+    "year": 1987,
+    "budget": 30000000,
+    "gross": 50183287,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/63ae09b0-12c7-4ca6-996a-1a9435cb8cfc/orig",
+    "position": 186
+  },
+  {
+    "id": 102198,
+    "title": "The Illusionist",
+    "rating": "8.012",
+    "year": 2005,
+    "budget": 16500000,
+    "gross": 87892388,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/bdb9b0c6-f9a4-4c17-a74f-91c11359057a/orig",
+    "position": 187
+  },
+  {
+    "id": 7226,
+    "title": "Dogville",
+    "rating": "8.003",
+    "year": 2003,
+    "budget": 10000000,
+    "gross": 16680836,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/ea32e9e1-bce8-4a1f-bf1c-6527851f71aa/orig",
+    "position": 188
+  },
+  {
+    "id": 367,
+    "title": "Requiem for a Dream",
+    "rating": "8.003",
+    "year": 2000,
+    "budget": 4500000,
+    "gross": 7390108,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/2a50c6d2-16b2-440d-a419-ab7306fc82fa/orig",
+    "position": 189
+  },
+  {
+    "id": 9691,
+    "title": "Inglourious Basterds",
+    "rating": "8.003",
+    "year": 2009,
+    "budget": 70000000,
+    "gross": 321455689,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/5e6dde98-74a8-4c02-b003-01d48e091025/orig",
+    "position": 190
+  },
+  {
+    "id": 1000443,
+    "title": "Балканский рубеж",
+    "rating": "8",
+    "year": 2019,
+    "budget": 230000000,
+    "gross": 5849400,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/298735fa-c7e4-4037-8cc5-5645bb7798d0/orig",
+    "position": 191
+  },
+  {
+    "id": 1048334,
+    "title": "Joker",
+    "rating": "7.997",
+    "year": 2019,
+    "budget": 55000000,
+    "gross": 1078751311,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/84934543-5991-4c93-97eb-beb6186a3ad7/orig",
+    "position": 192
+  },
+  {
+    "id": 601564,
+    "title": "Легенда №17",
+    "rating": "7.995",
+    "year": 2012,
+    "budget": 10000000,
+    "gross": 16096860,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/a8fce9c6-ed42-42e8-9727-206a6b5fb64a/orig",
+    "position": 193
+  },
+  {
+    "id": 351,
+    "title": "American Beauty",
+    "rating": "7.989",
+    "year": 1999,
+    "budget": 15000000,
+    "gross": 356296601,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/36f029a1-497d-45cd-b9fa-a152712a899c/orig",
+    "position": 194
+  },
+  {
+    "id": 14349,
+    "title": "Taxi",
+    "rating": "7.984",
+    "year": 1998,
+    "budget": 53000000,
+    "gross": 268254,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/67f3c053-f324-419d-932e-3d234f2105f5/orig",
+    "position": 195
+  },
+  {
+    "id": 819101,
+    "title": "The Hateful Eight",
+    "rating": "7.984",
+    "year": 2015,
+    "budget": 44000000,
+    "gross": 155760117,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/e5013408-8374-400b-a444-b9753e9da28d/orig",
+    "position": 196
+  },
+  {
+    "id": 933307,
+    "title": "Miss Sloane",
+    "rating": "7.98",
+    "year": 2016,
+    "budget": 13000000,
+    "gross": 9101546,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/2f1d1d22-606c-4653-bffd-babcca6ff6aa/orig",
+    "position": 197
+  },
+  {
+    "id": 507,
+    "title": "The Terminator",
+    "rating": "7.98",
+    "year": 1984,
+    "budget": 6400000,
+    "gross": 78371200,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/537869cd-5fb8-4993-af4c-c5f6a30e61ba/orig",
+    "position": 198
+  },
+  {
+    "id": 251733,
+    "title": "Avatar",
+    "rating": "7.978",
+    "year": 2009,
+    "budget": 237000000,
+    "gross": 2923706026,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/4adf61aa-3cb7-4381-9245-523971e5b4c8/orig",
+    "position": 199
+  },
+  {
+    "id": 958519,
+    "title": "Hotel Mumbai",
+    "rating": "7.977",
+    "year": 2018,
+    "gross": 21314816,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/7192c98b-570d-4787-8a65-dbe373c404a1/orig",
+    "position": 200
+  },
+  {
+    "id": 518037,
+    "title": "Lo imposible",
+    "rating": "7.976",
+    "year": 2012,
+    "budget": 45000000,
+    "gross": 198087212,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/bd3882d7-c0d1-4d67-bc13-a9aa47178d35/orig",
+    "position": 201
+  },
+  {
+    "id": 61237,
+    "title": "Iron Man",
+    "rating": "7.968",
+    "year": 2008,
+    "budget": 140000000,
+    "gross": 585366247,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/c8e2f069-15f1-4803-95c0-aba858fec360/orig",
+    "position": 202
+  },
+  {
+    "id": 692861,
+    "title": "Gone Girl",
+    "rating": "7.961",
+    "year": 2014,
+    "budget": 61000000,
+    "gross": 369330363,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/cdd30c22-0ff5-4a70-9e9c-6e2ed1820d84/orig",
+    "position": 203
+  },
+  {
+    "id": 8408,
+    "title": "Harry Potter and the Goblet of Fire",
+    "rating": "7.958",
+    "year": 2005,
+    "budget": 150000000,
+    "gross": 897048705,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/672269af-efcb-41c3-85b4-e9ce87f1ea02/orig",
+    "position": 204
+  },
+  {
+    "id": 260162,
+    "title": "Dallas Buyers Club",
+    "rating": "7.944",
+    "year": 2013,
+    "budget": 5000000,
+    "gross": 55198285,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/b2995873-7228-41fa-863f-a5cb2e7c85a4/orig",
+    "position": 205
+  },
+  {
+    "id": 505851,
+    "title": "Edge of Tomorrow",
+    "rating": "7.942",
+    "year": 2014,
+    "budget": 178000000,
+    "gross": 370541256,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/59acece0-e900-4914-aa8a-ec5f42026a64/orig",
+    "position": 206
+  },
+  {
+    "id": 683999,
+    "title": "The Grand Budapest Hotel",
+    "rating": "7.941",
+    "year": 2014,
+    "budget": 23000000,
+    "gross": 172936941,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/ea08a062-81a9-46e9-a475-e49388216eea/orig",
+    "position": 207
+  },
+  {
+    "id": 647671,
+    "title": "Jagten",
+    "rating": "7.94",
+    "year": 2012,
+    "budget": 3800000,
+    "gross": 15843274,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/b97af3b9-41b5-4e1d-a59c-051e4e979e80/orig",
+    "position": 208
+  },
+  {
+    "id": 41442,
+    "title": "Ворошиловский стрелок",
+    "rating": "7.937",
+    "year": 1999,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/7d4aad8f-1283-4cf8-b4b9-339611e09111/orig",
+    "position": 209
+  },
+  {
+    "id": 6144,
+    "title": "Love Actually",
+    "rating": "7.936",
+    "year": 2003,
+    "budget": 40000000,
+    "gross": 244931766,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/6efae789-2a6f-4d0a-935c-ea4bf30585df/orig",
+    "position": 210
+  },
+  {
+    "id": 309408,
+    "title": "День выборов",
+    "rating": "7.934",
+    "year": 2007,
+    "gross": 6149746,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/b824eb2a-1f6b-4149-852c-8360358349cd/orig",
+    "position": 211
+  },
+  {
+    "id": 5273,
+    "title": "Shrek 2",
+    "rating": "7.932",
+    "year": 2004,
+    "budget": 150000000,
+    "gross": 923075336,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/27a3c989-e883-40f3-806f-f3ef27fe7177/orig",
+    "position": 212
+  },
+  {
+    "id": 8366,
+    "title": "The Thing",
+    "rating": "7.927",
+    "year": 1982,
+    "budget": 15000000,
+    "gross": 20361494,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/01d5bf88-75de-4686-a322-14a55fca991c/orig",
+    "position": 213
+  },
+  {
+    "id": 494,
+    "title": "The Others",
+    "rating": "7.922",
+    "year": 2001,
+    "budget": 17000000,
+    "gross": 209947037,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0718431f-db6c-40f8-b436-fb5e2dd61371/orig",
+    "position": 214
+  },
+  {
+    "id": 875,
+    "title": "A Walk to Remember",
+    "rating": "7.907",
+    "year": 2002,
+    "budget": 11800000,
+    "gross": 47494916,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/5e353568-a599-47f8-a26b-a9e0e0e70274/orig",
+    "position": 215
+  },
+  {
+    "id": 81041,
+    "title": "Алеша Попович и Тугарин Змей",
+    "rating": "7.905",
+    "year": 2004,
+    "budget": 4000000,
+    "gross": 1730000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/3255501c-db04-465f-85f4-113f887cfad8/orig",
+    "position": 216
+  },
+  {
+    "id": 276762,
+    "title": "Harry Potter and the Deathly Hallows - Part 1",
+    "rating": "7.901",
+    "year": 2010,
+    "budget": 125000000,
+    "gross": 972584231,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/66852969-2d21-45de-bae1-62ec7760f756/orig",
+    "position": 217
+  },
+  {
+    "id": 3707,
+    "title": "The Passion of the Christ",
+    "rating": "7.886",
+    "year": 2004,
+    "budget": 30000000,
+    "gross": 609493825,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/1b7bc6cf-055e-43e3-b321-359e7a6db0f5/orig",
+    "position": 218
+  },
+  {
+    "id": 843650,
+    "title": "Avengers: Endgame",
+    "rating": "7.881",
+    "year": 2019,
+    "budget": 356000000,
+    "gross": 2799439100,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/ae22f153-9715-41bb-adb4-f648b3e16092/orig",
+    "position": 219
+  },
+  {
+    "id": 606646,
+    "title": "12 Years a Slave",
+    "rating": "7.879",
+    "year": 2013,
+    "budget": 20000000,
+    "gross": 187733202,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/5bf49fa3-333d-4625-9857-14b533adbad7/orig",
+    "position": 220
+  },
+  {
+    "id": 335,
+    "title": "Memento",
+    "rating": "7.874",
+    "year": 2000,
+    "budget": 9000000,
+    "gross": 39723096,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/3fabdd0d-9b34-4cbf-a3b0-eb8448ccc122/orig",
+    "position": 221
+  },
+  {
+    "id": 959365,
+    "title": "Contratiempo",
+    "rating": "7.864",
+    "year": 2016,
+    "gross": 31191910,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/611a2f49-49fb-458e-b98a-fb46672f1a24/orig",
+    "position": 222
+  },
+  {
+    "id": 3793,
+    "title": "Constantine",
+    "rating": "7.86",
+    "year": 2005,
+    "budget": 100000000,
+    "gross": 230884728,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/73e1c12a-7b14-408f-b5e9-b01765b29d36/orig",
+    "position": 223
+  },
+  {
+    "id": 939411,
+    "title": "Papillon",
+    "rating": "7.853",
+    "year": 2017,
+    "gross": 10060903,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/8e08470b-0241-47f4-9ee6-32406da24df5/orig",
+    "position": 224
+  },
+  {
+    "id": 104927,
+    "title": "The Holiday",
+    "rating": "7.852",
+    "year": 2006,
+    "budget": 85000000,
+    "gross": 205135175,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/185b0c9f-d07a-4529-b023-cdb20eceb18a/orig",
+    "position": 225
+  },
+  {
+    "id": 664,
+    "title": "The Family Man",
+    "rating": "7.84",
+    "year": 2000,
+    "budget": 60000000,
+    "gross": 124745083,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/b19fcaf1-a71d-4685-9ec9-5f049a112425/orig",
+    "position": 226
+  },
+  {
+    "id": 453406,
+    "title": "Mad Max: Fury Road",
+    "rating": "7.839",
+    "year": 2015,
+    "budget": 150000000,
+    "gross": 379436354,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/72ba01f5-4cb3-49b6-9dd5-1edffe4411d5/orig",
+    "position": 227
+  },
+  {
+    "id": 976636,
+    "title": "Molly's Game",
+    "rating": "7.831",
+    "year": 2017,
+    "budget": 30000000,
+    "gross": 59284015,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/eabf413e-b465-4857-a7b0-9c54c260778f/orig",
+    "position": 228
+  },
+  {
+    "id": 89515,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "rating": "7.83",
+    "year": 2009,
+    "budget": 250000000,
+    "gross": 934770303,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/3b4b90e6-0b62-410c-a583-6977df318fbe/orig",
+    "position": 229
+  },
+  {
+    "id": 7653,
+    "title": "Особенности национальной охоты",
+    "rating": "7.829",
+    "year": 1995,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/95329b41-326d-4e1a-a2d3-8f2298a08743/orig",
+    "position": 230
+  },
+  {
+    "id": 468102,
+    "title": "О чём говорят мужчины",
+    "rating": "7.829",
+    "year": 2010,
+    "budget": 1950000,
+    "gross": 12824118,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/414abc8f-d0dc-432e-a991-19c39af8301d/orig",
+    "position": 231
+  },
+  {
+    "id": 522876,
+    "title": "The Age of Adaline",
+    "rating": "7.825",
+    "year": 2015,
+    "budget": 25000000,
+    "gross": 65663276,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/68440e1f-ccc7-410a-bc56-92994554b63a/orig",
+    "position": 232
+  },
+  {
+    "id": 666,
+    "title": "The Fast and the Furious",
+    "rating": "7.823",
+    "year": 2001,
+    "budget": 38000000,
+    "gross": 207283925,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/8277905e-aa09-465d-b0de-7c389a42f215/orig",
+    "position": 233
+  },
+  {
+    "id": 495518,
+    "title": "One Day",
+    "rating": "7.82",
+    "year": 2011,
+    "budget": 15000000,
+    "gross": 59389433,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/d7aa21db-2102-4b8b-81f0-f7ec4e0e9ec9/orig",
+    "position": 234
+  },
+  {
+    "id": 195434,
+    "title": "No Country for Old Men",
+    "rating": "7.811",
+    "year": 2007,
+    "budget": 25000000,
+    "gross": 171627166,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/fd0501f0-adaf-48fd-bad3-1216a33fc95a/orig",
+    "position": 235
+  },
+  {
+    "id": 589290,
+    "title": "Blade Runner 2049",
+    "rating": "7.798",
+    "year": 2017,
+    "budget": 150000000,
+    "gross": 259154159,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/33dbf977-208f-448c-8726-d2fafdcced28/orig",
+    "position": 236
+  },
+  {
+    "id": 455194,
+    "title": "Prisoners",
+    "rating": "7.786",
+    "year": 2013,
+    "budget": 46000000,
+    "gross": 122126687,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/c7debfa6-6264-4352-a996-3676906cce58/orig",
+    "position": 237
+  },
+  {
+    "id": 880,
+    "title": "What Women Want",
+    "rating": "7.774",
+    "year": 2000,
+    "budget": 70000000,
+    "gross": 374111707,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/f6142ae4-e271-4709-97c3-cc60a13be1b1/orig",
+    "position": 238
+  },
+  {
+    "id": 838,
+    "title": "Spider-Man",
+    "rating": "7.739",
+    "year": 2002,
+    "budget": 139000000,
+    "gross": 821708551,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/428e2842-4157-45e8-a9af-1e5245e52c37/orig",
+    "position": 239
+  },
+  {
+    "id": 839818,
+    "title": "Экипаж",
+    "rating": "7.717",
+    "year": 2016,
+    "budget": 650000000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/2adce99c-65b4-482a-b439-b1459adbe0c0/orig",
+    "position": 240
+  },
+  {
+    "id": 222809,
+    "title": "12",
+    "rating": "7.708",
+    "year": 2007,
+    "budget": 2500000,
+    "gross": 7537453,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/b14b9ee7-d8e8-4f18-8031-ef1b3ca2609a/orig",
+    "position": 241
+  },
+  {
+    "id": 2717,
+    "title": "Kill Bill: Vol. 1",
+    "rating": "7.695",
+    "year": 2003,
+    "budget": 30000000,
+    "gross": 180899045,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/c28ed8ad-54b7-4781-8f42-002d26b39b7f/orig",
+    "position": 242
+  },
+  {
+    "id": 252641,
+    "title": "Watchmen",
+    "rating": "7.679",
+    "year": 2009,
+    "budget": 130000000,
+    "gross": 185258983,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/19544d88-7b50-4b3b-986e-f29c26e025d0/orig",
+    "position": 243
+  },
+  {
+    "id": 485261,
+    "title": "Tucker and Dale vs Evil",
+    "rating": "7.676",
+    "year": 2010,
+    "gross": 5241377,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/cf50ae52-c59d-4e24-988a-f64794ee800a/orig",
+    "position": 244
+  },
+  {
+    "id": 910353,
+    "title": "Shot Caller",
+    "rating": "7.656",
+    "year": 2015,
+    "gross": 3440362,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/8d7d0aec-c600-4d8e-9765-15e2b4b4ccfc/orig",
+    "position": 245
+  },
+  {
+    "id": 635772,
+    "title": "The Imitation Game",
+    "rating": "7.656",
+    "year": 2014,
+    "budget": 14000000,
+    "gross": 233555708,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10703859/8ac3b989-2556-42bb-9d11-913d42bacc63/orig",
+    "position": 246
+  },
+  {
+    "id": 47015,
+    "title": "Kill Bill: Vol. 2",
+    "rating": "7.606",
+    "year": 2004,
+    "budget": 30000000,
+    "gross": 152159461,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/2f8295c3-cc9f-43cf-8dfe-13616c3eaa5e/orig",
+    "position": 247
+  },
+  {
+    "id": 7466,
+    "title": "A Bronx Tale",
+    "rating": null,
+    "year": 1993,
+    "budget": 22000000,
+    "gross": 17287898,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/a97b1c64-8726-4ec8-be0e-87a12ef717b8/orig",
+    "position": 248
+  },
+  {
+    "id": 43970,
+    "title": "Сталкер",
+    "rating": null,
+    "year": 1979,
+    "budget": 6000000,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/811f668e-e54d-468c-9279-d45599e35b35/orig",
+    "position": 249
+  },
+  {
+    "id": 41431,
+    "title": "Война",
+    "rating": null,
+    "year": 2002,
+    "gross": 1887,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/7a06c242-ede9-4c91-a865-6a0f0b9c66eb/orig",
+    "position": 250
+  }
+]
