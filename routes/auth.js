@@ -8,8 +8,7 @@ const authRouter = express.Router();
 
 authRouter.post('/register', async (req, res) => {
   try {
-    const { email, password } = req.body;
-    const manager =  await createManager({ email, password });
+    const manager =  await createManager(req.body);
 
     res.status(201).json(manager);
   } catch (error) {
