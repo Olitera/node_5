@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "email": "manager1@example.com",
+    "password": "jhjkhjkhjkh988667",
+    "super": false
+  },
+  {
+    "id": 2,
+    "email": "admin@example.com",
+    "password": "vbnvbvvbnbvbe454545",
+    "super": true
+  }
+]
