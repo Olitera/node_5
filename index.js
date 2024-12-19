@@ -6,16 +6,14 @@ const filmsRouter = require('./routes/films');
 const getMovies = require('./helpers/get-movies');
 const { State } = require('./helpers/state');
 const authRouter = require('./routes/auth');
+const authMiddleware = require('./middleware/auth.middleware');
 
 app.use(express.json());
 
+app.use('/', authMiddleware);
 app.use('/greetings', greetingsRouter);
 app.use('/films', filmsRouter);
 app.use('/auth', authRouter);
-
-app.use((err, req, res) => {
-  console.log(err);
-});
 
 async function startApp() {
   State.movies = await getMovies();
